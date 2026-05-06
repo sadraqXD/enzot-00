@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1442849606634573896/1496876834409681036/image.png?ex=69fbf56f&is=69faa3ef&hm=8b3caa29d72d432e6012dba679f058985e6153c481d42ff63fcf05f0a76265c6" width="100%">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel%2BDecorative&pause=1000&color=3F27F7&background=3033FF00&width=435&lines=Invocando+novas+linhas+de+c%C3%B3digo...)](https://git.io/typing-svg)
 
 <h2 align="center">Hello world, I'm Enzo, welcome!.</h2>
 
