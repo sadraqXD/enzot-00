@@ -35,7 +35,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=102&fontAlignY=100&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=600&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=102&fontAlignY=100&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
