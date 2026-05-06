@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel%2BDecorative&pause=1000&color=F70000&background=3033FF00&center=true&width=435&lines=welcome)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel%2BDecorative&pause=1000&color=F70000&background=3033FF00&center=true&width=459&lines=welcome)](https://git.io/typing-svg)
 
 <h2 align="center">Hello world, I'm Enzo, welcome!.</h2>
 
