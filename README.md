@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1442849606634573896/1496876834409681036/image.png?ex=69fbf56f&is=69faa3ef&hm=8b3caa29d72d432e6012dba679f058985e6153c481d42ff63fcf05f0a76265c6" width="100%">
+</p>
+
 <h2 align="center">Hello world, I'm Enzo, welcome!.</h2>
 
 ###
