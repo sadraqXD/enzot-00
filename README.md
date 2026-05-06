@@ -29,13 +29,13 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/tTpZnYkK/Whats-App-Image-2026-05-05-at-23-43-05.jpg"  />
+  <img height="200" src="https://apparent-orange-f3a2mj3zgk.edgeone.app/Shadow%20the%20hedgehog%20run.gif"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=102&fontAlignY=100&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
